@@ -1,8 +1,7 @@
 {
 	"name": "dfftw3",
-	"description": "A minimal D application.",
-	"copyright": "Copyright © 2015, hgouk",
-	"authors": ["hgouk"],
+	"description": "Bindings for FFTW3",
+	"license": "GPL-2.0 or later or proprietary"
 	"libs-posix": ["fftw3", "fftw3f"],
 	"dependencies": {
 	}
