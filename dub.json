@@ -1,0 +1,9 @@
+{
+	"name": "dfftw3",
+	"description": "A minimal D application.",
+	"copyright": "Copyright © 2015, hgouk",
+	"authors": ["hgouk"],
+	"libs-posix": ["fftw3", "fftw3f"],
+	"dependencies": {
+	}
+}
