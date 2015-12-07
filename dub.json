@@ -2,7 +2,7 @@
 	"name": "dfftw3",
 	"description": "Bindings for FFTW3",
 	"license": "GPL-2.0 or later or proprietary",
-	"libs-posix": ["fftw3", "fftw3f"],
 	"dependencies": {
-	}
+	},
+	"libs": ["fftw3", "fftw3f", "fftw3l"]
 }
